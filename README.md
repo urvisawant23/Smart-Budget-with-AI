@@ -20,7 +20,7 @@ This system analyzes user-selected symptoms, predicts possible health conditions
 
 
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Streamlit
@@ -47,13 +47,13 @@ This system analyzes user-selected symptoms, predicts possible health conditions
    - Find nearby hospitals
    - Download a personalized health report
 
----
 
-## ⚠ Disclaimer
+
+##  Disclaimer
 
 This system provides AI-based health insights and is not a substitute for professional medical advice. Always consult a qualified healthcare provider for medical concerns.
 
----
+
 
 ##  Project Structure
 app.py
